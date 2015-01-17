@@ -38,13 +38,15 @@ grunt.initConfig({
 ### Options
 
 #### options.who
-Type: `String`,
+Type: `String`    
+
 Default value: `alpaca`
 
 A string value that is used to do something with whatever.
 
 #### options.commentSymbol
-Type: `String`,
+Type: `String`    
+
 Default value: `//`
 
 A string value that is used to do something else with whatever else.
